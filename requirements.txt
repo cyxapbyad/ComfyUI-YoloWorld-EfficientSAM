@@ -1,1 +1,1 @@
-inference-gpu[yolo-world]==0.9.18
+inference-gpu[yolo-world]==0.33.0
